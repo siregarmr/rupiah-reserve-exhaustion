@@ -1,6 +1,6 @@
 # Rupiah Reserve Exhaustion Simulator (RRES) 
 
-A Monte Carlo simulation of Indonesia's foreign exchange reserve adequacy. It Estimates the probability of a _"Burnout"_— the point at which reserves
+A Monte Carlo simulation of Indonesia's foreign exchange reserve adequacy. It estimates the probability of a _"Burnout"_— the point at which reserves
 fall below critical import cover thresholds.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/siregarmr/rupiah-reserve-exhaustion/blob/main/Rupiah_Reserve_Exhaustion.ipynb)
